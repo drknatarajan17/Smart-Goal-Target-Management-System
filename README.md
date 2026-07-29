@@ -371,9 +371,6 @@ Contributions are welcome.
 **Developer:** Natarajan K
 
 - GitHub: https://github.com/drknatarajan17
-- LinkedIn: Add your LinkedIn profile here
-- Email: Add your email here
-
 ---
 
 # ⭐ Support
